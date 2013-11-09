@@ -1,0 +1,11 @@
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/BookingDateRange.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/BookingService.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/User.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/Booking.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/JpaBookingService.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/BookingFlowHandler.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/HotelsController.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/Hotel.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/Amenity.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/SearchCriteria.java
+/home/lrodriguez/Documents/workspace-sts-3.4.0.RELEASE/personal-landing/src/main/java/org/springframework/webflow/samples/booking/BookingDateRangeValidator.java
